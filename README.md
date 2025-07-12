@@ -3,6 +3,7 @@
   Sashulin provides powerful basic components such as Java, Socket, database, MQ, etc. It also supports custom components.
 
 -- Features
+  Convert the local API to a public API.
   Visual process orchestration.
   Java programming.
   Rich component library.
